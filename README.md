@@ -8,6 +8,17 @@ Deep generative models like Stable Diffusion perform exceptionally for image gen
 
 In this implementation Learned Dynamic Channel Pruning is applied to **Stable Diffusion 1.5** model and the aim is to reduce peak memory consumption while at the same time preserving the image quality and speed of generation.
 
+## Tech Stack Used
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-0057B8?style=for-the-badge&logo=stablediffusion&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![Diffusers](https://img.shields.io/badge/🤗%20Diffusers-FFD21E?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
 ## Dataset Used  
 
 The dataset used for the experimentation is **FFHQ (Flickr-Faces-HQ)** Dataset. It is a high-quality image dataset of human faces, maintained by NVIDIA and originally created as a benchmark for generative adversarial networks (GAN). This dataset contains 70,000 high quality images with a resolution of 1024 x 1024. This dataset is widely used in face generation and face editing applications. Furthermore, the dataset has a wide range of variation of age, gender and ethnicity in human faces. In addition to this, the dataset also has good coverage in terms of accessories like sunglasses, hats, jewellery etc. Hence, making it a good choice for our proposed experiments.
