@@ -1,1 +1,2 @@
-# Learned_Dynamic_Channel_Pruning
+# Learned Dynamic Channel Pruning
+
