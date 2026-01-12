@@ -14,7 +14,6 @@ In this implementation Learned Dynamic Channel Pruning is applied to **Stable Di
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-0057B8?style=for-the-badge&logo=stablediffusion&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
-![Diffusers](https://img.shields.io/badge/🤗%20Diffusers-FFD21E?style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
